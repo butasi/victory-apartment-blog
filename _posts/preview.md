@@ -39,7 +39,8 @@ Unavailable: Smoke alarmSmoke alarm
 > 200 metres to Bungoma Referral Hospital
 
 ```
-Take Sinoko road off west fm road, next to Elivio primary
+Take Sinoko road off west fm road,
+next to Elivio primary
 Follow the Sign "VICTORY APARTMENTS".
 ```
 ## Victory Apartments
