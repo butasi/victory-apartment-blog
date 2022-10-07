@@ -11,19 +11,36 @@ ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---
 
->##  Infrastructure
+##  Infrastructure
 
 ```
 Kitchen
+
 Wifi
+
 Dedicated workspace
+
 Free parking on premises
+
 TV
+
 Long-term stays allowed
-Unavailable: Carbon monoxide alarmCarbon monoxide alarm
+
+Unavailable: Carbon monoxide alarm
+
 Unavailable: Smoke alarmSmoke alarm
 ```
 
-## Lorem Ipsum
+## `Location`
+> Sinoko, Bungoma
 
+> 300 metres off Kanduyi -Musikoma Dual carriageway.
+
+> 200 metres to Bungoma Referral Hospital
+
+```
+Take Sinoko road off west fm road, next to Elivio primary
+Follow the Sign "VICTORY APARTMENTS".
+```
+## Victory Apartments
 
