@@ -18,16 +18,59 @@ ogImage:
 
 `What this place offers`
 
+
+> Kitchen
+
+> Wifi
+
+> Dedicated workspace
+
+> Free parking on premises
+
+> TV
+
+> Long-term stays allowed
+
+> Unavailable: Carbon monoxide alarm
+
+> Unavailable: Smoke alarmSmoke alarm
+
 ```
-Kitchen
-Wifi
-Dedicated workspace
-Free parking on premises
-TV
-Long-term stays allowed
-Unavailable: Carbon monoxide alarmCarbon monoxide alarm
-Unavailable: Smoke alarmSmoke alarm
+About the space
 ```
+> Your family will be close to everything when you stay at 
+this centrally-located place.
+
+> 300 metres off Kanduyi - Musikoma Dual carriageway.
+
+> 200 metres to Bungoma Referral Hospital
+
+> 200 metres to Bungoma Railway station
+
+> 200 metres to Bungoma airstrip
+
+`The space`
+
+Serene environment, guaranteed privacy.
+
+```
+Other things to note
+```
+Incase you will need food, kindly inform us 45 minutes before so that the
+necessary arrangements can be made to your satisfaction
+
+## `Location`
+> Sinoko, Bungoma
+
+> 300 metres off Kanduyi -Musikoma Dual carriageway.
+
+> 200 metres to Bungoma Referral Hospital
+
+```
+Take Sinoko road off west fm road, next to Elivio primary
+Follow the Sign "VICTORY APARTMENTS".
+```
+
 
 ## Victory Apartments
 
