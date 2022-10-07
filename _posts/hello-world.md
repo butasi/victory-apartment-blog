@@ -69,7 +69,8 @@ necessary arrangements can be made to your satisfaction
 ```
 Take Sinoko road off west fm road,
 next to Elivio primary
-Follow the Sign "VICTORY APARTMENTS".
+Follow the Sign 
+"VICTORY APARTMENTS".
 ```
 
 

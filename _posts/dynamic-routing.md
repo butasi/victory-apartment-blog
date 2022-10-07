@@ -63,7 +63,8 @@ Serene environment, guaranteed privacy.
 ```
 Take Sinoko road off west fm road,
 next to Elivio primary
-Follow the Sign "VICTORY APARTMENTS".
+Follow the Sign 
+"VICTORY APARTMENTS".
 ```
 
 ## Victory Apartments

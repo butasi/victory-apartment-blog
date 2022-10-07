@@ -41,7 +41,8 @@ Unavailable: Smoke alarmSmoke alarm
 ```
 Take Sinoko road off west fm road,
 next to Elivio primary
-Follow the Sign "VICTORY APARTMENTS".
+Follow the Sign
+"VICTORY APARTMENTS".
 ```
 ## Victory Apartments
 
