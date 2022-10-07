@@ -1,19 +1,33 @@
 ---
 title: 'Airbnbs for rent'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+excerpt: 'Falling Leaves … Falling Prices! They’re Both Happening at Victory Apartment.'
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2022-10-06T05:35:07.322Z'
 author:
-  name: Tim Neutkens
-  picture: '/assets/blog/authors/tim.jpeg'
+  name: Rodgers Butasi
+  picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
 ---
 
 > Guests agree: these vacation rentals are highly rated for location, cleanliness, and more.
 
+>Whether you’re looking for a rental house, one night stay, or something else entirely, you’re sure to find the perfect 2 bedroom house plan here.
+
 >Our new guest suite is just a 10-15 minute walk from Bungoma Town and Posta Grounds. 
 
-## Lorem Ipsum
+`What this place offers`
 
-https://formspree.io/f/mjvzrdqz
+```
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV
+Long-term stays allowed
+Unavailable: Carbon monoxide alarmCarbon monoxide alarm
+Unavailable: Smoke alarmSmoke alarm
+```
+
+## Victory Apartments
+
