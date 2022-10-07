@@ -4,8 +4,8 @@ excerpt: 'Modern Amenities. Urban Location. Sophisticated Style.'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2022-10-07T05:35:07.322Z'
 author:
-  name: Rodgers Butasi
-  picture: '/assets/blog/authors/jj.jpeg'
+  name: Susan
+  picture: 'https://a0.muscache.com/im/pictures/user/2f364772-c739-4b13-9170-17e18a513620.jpg?aki_policy=profile_large'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
  
