@@ -1,19 +1,14 @@
 ---
-title: 'Dynamic Routing and Static Generation'
+title: 'Apartments Available'
 excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2022-10-06T05:35:07.322Z'
 author:
-  name: JJ Kasper
+  name: Rodgers Butasi
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
-
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
-
-## Lorem Ipsum
-
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+## `Two Bedroom Apartment for Rent`
+> Two bedroom houses are a popular option with homeowners today because of their affordability and small footprints (although not all two bedroom house plans are small). With enough space for a guest room, home office, or play room, 2 bedroom house plans are perfect for all kinds of homeowners. Another perk? 2 bedroom floor plans boast cozy living spaces with little maintenance requirements. The best of both worlds! The cool thing about 2 bedroom house plans is they can be as luxurious or simple as you want depending on your needs and lifestyle. Need more space? Opt for a two bedroom house plan that features a bonus space or an attic that can be finished later if you decide you need more room. Have a car or need a little extra storage? We offer ample packing within the premises with a gated community. Selecting a 2 bedroom house plan with an open floor plan is another smart way to make the best use of space. Whether you’re looking for a rental house, one night stay, or something else entirely, you’re sure to find the perfect 2 bedroom house plan here.
