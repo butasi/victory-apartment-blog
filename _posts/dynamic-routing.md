@@ -5,7 +5,7 @@ coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2022-10-07T05:35:07.322Z'
 author:
   name: Susan
-  picture: 'https://a0.muscache.com/im/pictures/user/2f364772-c739-4b13-9170-17e18a513620.jpg?aki_policy=profile_large'
+  picture: 'https://a0.muscache.com/im/pictures/50327abf-adcd-443f-b014-f55b20bb7d49.jpg?im_w=720'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
  

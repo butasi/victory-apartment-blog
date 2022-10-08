@@ -5,7 +5,7 @@ coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2022-10-06T05:35:07.322Z'
 author:
   name: Rodgers Butasi
-  picture: '/assets/blog/authors/jj.jpeg'
+  picture: 'https://a0.muscache.com/im/pictures/4a9f64dc-1b40-46fd-bd64-0024f869235a.jpg?im_w=1200'
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
 ---
